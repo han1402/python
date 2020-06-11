@@ -1,4 +1,3 @@
-# 2!!!
 time = int(input('Insert time in seconds '))
 if (time//3600) < 10:
     hour = '0' + str(time//3600)
